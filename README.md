@@ -1,7 +1,6 @@
 
 ### C Piscine @ 42LUXEMBOURG
 This repository contains coding developed at 42Luxembourg's C bootcamp (also known as Piscine), from 20/nov/2023 to 15/dec/2023.
-![Piscine](https://camo.githubusercontent.com/6583dd40de903dfbda14fc2875634555575195f022bb6e12e29e3b2caa0ee2ce/68747470733a2f2f692e696d6775722e636f6d2f593154414d6d6d2e706e67?raw=true&width=50)
 
 About 42
 42 is a global education initiative that proposes a new way of learning technology: no teachers,
